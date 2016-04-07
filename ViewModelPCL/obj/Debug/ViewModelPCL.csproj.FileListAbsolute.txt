@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\bin\Debug\ViewModelPCL.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\bin\Debug\ViewModelPCL.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\bin\Debug\Funq.Portable.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\bin\Debug\Storm.Mvvm.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\obj\Debug\ViewModelPCL.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\obj\Debug\ViewModelPCL.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\obj\Debug\ViewModelPCL.dll.mdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\bin\Debug\ViewModelPCL.dll.mdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\obj\Debug\ViewModelPCL.dll.mdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\ViewModelPCL\bin\Debug\ViewModelPCL.dll.mdb

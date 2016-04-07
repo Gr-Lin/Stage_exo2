@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+  <ImageView
+      android:id="day"
+      android:layout_width="wrap_content"
+      android:layout_height="350dip"
+      android:src="@drawable/sun" />
+  <TextView
+      android:id="in_sky"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textSize="15sp"
+      android:text="You are in the sky" />
+  <Button
+      android:id="change"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Let's see the moon"
+      Click="{Binding ButtonChange}"/>
+</LinearLayout>

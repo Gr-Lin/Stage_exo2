@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky", "Sky\Sky.csproj", "{E5232868-6554-476B-A14B-8232972C6B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModelPCL", "ViewModelPCL\ViewModelPCL.csproj", "{74F3BD5D-7D54-41E5-8739-DF10E6DDEB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5232868-6554-476B-A14B-8232972C6B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5232868-6554-476B-A14B-8232972C6B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5232868-6554-476B-A14B-8232972C6B99}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E5232868-6554-476B-A14B-8232972C6B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5232868-6554-476B-A14B-8232972C6B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5232868-6554-476B-A14B-8232972C6B99}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{74F3BD5D-7D54-41E5-8739-DF10E6DDEB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F3BD5D-7D54-41E5-8739-DF10E6DDEB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F3BD5D-7D54-41E5-8739-DF10E6DDEB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F3BD5D-7D54-41E5-8739-DF10E6DDEB63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

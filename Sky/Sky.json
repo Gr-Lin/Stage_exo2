@@ -1,0 +1,27 @@
+﻿{
+  "namespaces": [ "Sky" ],
+
+  "fileDescriptions": [
+    {
+      "activity": {
+        "className": "SunActivity",
+        "namespaceName": "Sky.Activities"
+      },
+      "view": {
+        "inputFile": "Views/SunView.xml",
+        "outputFile": "Sun.axml"
+      }
+    },
+   {
+      "activity": {
+        "className": "MoonActivity",
+        "namespaceName": "Sky.Activities"
+      },
+      "view": {
+        "inputFile": "Views/MoonView.xml",
+        "outputFile": "Moon.axml"
+      }
+    }
+  ]
+}
+	
