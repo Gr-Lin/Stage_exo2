@@ -16,7 +16,7 @@ namespace ViewModelPCL.ViewModel
 
         private void ButtonClicked()
         {
-            NavigationService.Navigate("MoonView");
+            NavigationService.Navigate("Moon");
         }
     }
 }

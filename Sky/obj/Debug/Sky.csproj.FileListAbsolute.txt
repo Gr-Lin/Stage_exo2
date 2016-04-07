@@ -20,6 +20,5 @@ C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\Sky\obj\Debug\res\layou
 C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\Sky\obj\Debug\res\layout\moon.xml
 C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\Sky\obj\Debug\R.cs.flag
 C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\Sky\obj\Debug\uploadflags.txt
-C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\Sky\bin\Debug\ViewModelPCL.dll.mdb
 C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\Sky\obj\Debug\Sky.dll.mdb
 C:\Users\admin\Documents\Visual Studio 2015\Projects\Sky\Sky\bin\Debug\Sky.dll.mdb

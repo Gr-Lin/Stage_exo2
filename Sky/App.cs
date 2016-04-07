@@ -3,6 +3,9 @@ using Android.App;
 using Android.Runtime;
 using Storm.Mvvm;
 using Storm.Mvvm.Inject;
+using System.Collections.Generic;
+using Sky.Activities;
+using ViewModelPCL;
 
 [Application]
 public class Application : ApplicationBase
@@ -14,6 +17,13 @@ public class Application : ApplicationBase
     public override void OnCreate()
     {
         base.OnCreate();
-        AndroidContainer.CreateInstance<AndroidContainer>(this, null);
+
+        Dictionary<string, Type> views = new Dictionary<string, Type>
+        {
+            { "Moon", typeof(MoonActivity)},
+            { "Sun", typeof(SunActivity)}
+        };
+
+        AndroidContainer.CreateInstance<AndroidContainer>(this, views);
     }
 }
